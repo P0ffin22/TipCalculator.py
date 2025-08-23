@@ -16,4 +16,7 @@ def percent_to_float(p):
     return convert_percent/100
 
 
+def addthem(a):
+    return convert_percent/100 +10
+
 main()
